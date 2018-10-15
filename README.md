@@ -1,0 +1,4 @@
+# PruebaGitRix
+Prueba Estudio git
+
+#ESTA ES UNA PRUEBA DE GIT PARA EL CURSO DE FEDESOFT
